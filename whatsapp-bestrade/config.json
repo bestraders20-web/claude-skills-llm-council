@@ -1,0 +1,51 @@
+{
+  "negocios": {
+    "bestrade_mineria": {
+      "nombre": "BestTrade - Pertenencias Mineras & Concentrados",
+      "whatsapp": "activo",
+      "servicios": [
+        "Venta de Pertenencias Mineras",
+        "Venta de Concentrados Minerales",
+        "Asesoría en Transacciones Mineras",
+        "Evaluación de Pertenencias",
+        "Intermediación Compra-Venta"
+      ],
+      "tono": "profesional, directo, confiable",
+      "idioma": "español",
+      "moneda": "USD / CLP",
+      "respuesta_max_segundos": 60,
+      "horario_atencion": "Lun-Vie 08:00-20:00, Sab 09:00-14:00",
+      "tipos_concentrado": [
+        "Cobre",
+        "Oro",
+        "Plata",
+        "Molibdeno",
+        "Zinc",
+        "Plomo"
+      ],
+      "etapas_negocio": [
+        "Contacto Inicial",
+        "Envío de Información",
+        "Negociación de Precio",
+        "Due Diligence",
+        "Cierre de Contrato",
+        "Transferencia / Entrega"
+      ]
+    },
+    "sexys_ladys": {
+      "nombre": "Sexys Ladys",
+      "whatsapp": "activo",
+      "tipo": "emprendimiento",
+      "tono": "amigable, cercano, profesional",
+      "idioma": "español",
+      "respuesta_max_segundos": 30,
+      "horario_atencion": "Lun-Dom 09:00-22:00"
+    }
+  },
+  "automatizacion": {
+    "respuestas_rapidas": true,
+    "seguimiento_automatico": true,
+    "alertas_negocio": true,
+    "plantillas_activas": true
+  }
+}
